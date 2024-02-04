@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Animal Trading Card</title>
+</head>
+  
+<body>
+    <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTTT3anKq55THazy-0N6SeRHCPvXvAKPqEw&usqp=CAU" alt="Butterfly Image">
+      <p>Interesting facts:Monarch caterpillars exclusively feed on milkweed plants. The toxins from the milkweed make them unpalatable to many predators, providing them with a form of defense.</p>
+        <h2>Monarch Butterfly</h2>
+        <p>Species: Danaus plexippus</p>
+        <p>Habitat: Gardens and Meadews</p>
+        <p>Color: Orange with black veins and borders</p>
+      <p>Average lifespan: 6-8 weeks</p>
+        <p>Size: 4.1 inches</p>
+
+      <p>Summary: The monarch butterfly (Danaus plexippus) is a species renowned for its extraordinary life cycle and behaviors. These butterflies embark on a long-distance migration from North America to central Mexico, spanning generations. Their life begins as tiny eggs laid on milkweed plants, and the subsequent stages include the distinct caterpillar, chrysalis, and finally, the orange and black-winged adult. Monarchs caterpillars feed exclusively on the milkweed plant, acquiring toxins that make them unappealing to predators and their vibrant coloration serves as a warning signal in the natural world.
+</p>
+    </div>
+</body>
+</html>
